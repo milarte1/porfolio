@@ -1,0 +1,23 @@
+.contenedor-principal{
+    width: 990px;
+    margin: 10px 10px 10px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #db848484;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-mila{
+    height: 50%;
+    width: auto;
+}
+
+.texto-mila{
+    text-align: center;
+    padding: 40px;
+    font-family: sans-serif;
+    line-height: 1.5rem;
+    font-weight: 400;
+    
+}

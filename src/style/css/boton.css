@@ -1,0 +1,10 @@
+.boton{
+    background-color: #b81838; /* Color de fondo */
+    color:black; /* Color del texto */
+    padding: 10px 20px; /* Espacio interior */
+    text-decoration: none; /* Decoración del texto */
+    font-size: 14px; /* Tamaño del texto */
+    cursor: pointer; /* Cursor del ratón */
+    border-radius: 5px; /* Redondez de las esquinas */
+    margin-bottom: 100px;
+  }

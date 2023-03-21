@@ -1,0 +1,62 @@
+body{
+  background-color: #bad4e4;
+}
+.base-formulario{
+  background-color: rgb(188, 239, 239);
+  width: 500px;
+  border-radius: 30px;
+}
+Formulario {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 1px solid #d59595;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(188, 176, 176, 0.1);
+    margin-bottom: 50px;
+    background-color: rgb(167, 167, 236);
+    
+  }
+
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(47, 17, 17);
+    font-weight:bold ;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    background-color: #c69f9f;
+    border-radius: 5px;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #c69f9f;
+    margin-bottom: 1rem;
+  }
+
+  
+  textarea {
+    border: 2px solid #c69f9f;
+    border-radius: 5px;
+  }
+  
+  button[type="submit"] {
+    display: block;
+    width: 100px;
+    margin-left: 205px;
+    background-color: #c69f9f;
+    font-weight: bold;
+    color:black;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 0.5rem;
+    cursor: pointer;
+  }

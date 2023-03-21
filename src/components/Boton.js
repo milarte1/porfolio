@@ -5,7 +5,7 @@ function Boton(props) {
         <button onClick={props.onClick}>
             <div className='boton'>
             {props.texto}
-            <p>CURRICULUM</p>
+            <p>Curriculum</p>
             </div>
         </button>
         </div>

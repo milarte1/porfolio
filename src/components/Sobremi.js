@@ -3,11 +3,12 @@ function Sobremi() {
             <div className="contenedor-principal">
                 <img 
                 className="imagen-mila" 
-                src="../imagen/MILA.jpg"alt=" foto de mila"
+                src="../imagen/milacuadrada.jpg"alt=" foto de mila"
                 />
                 <div className="texto-mila">
-                <p className="texto-inicio"> Destinada a reinventarme y descubir mi pasión por la programación. Este camino me permite dar lo mejor de mí sin ponerme limites. Siempre dispuesta a seguir ampliando conocimientos.</p>
-                </div>
+                <p className="texto-inicio"> Destinada a reinventarme y descubir mi pasión por la programación.lorem
+                 </p>
+                </div>.
                 
 
             </div>

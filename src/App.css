@@ -10,7 +10,8 @@
 html,
 body {
   font-size: 18px;
-  background-color: #f5f6f7;
+  background-image: url(https://alexandreu.es/wp-content/uploads/2016/11/Fondo-2.jpg);
+  background-repeat: no-repeat;
 }
 
 h1{

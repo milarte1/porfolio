@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Nanum+Myeongjo:wght@400;700;800&display=swap');
 
+
 body {
     margin: 0;
     padding: 0;
@@ -9,8 +10,9 @@ body {
     font-family: "Roboto", sans-serif;
     color: black;
     padding-top: 90px;
-   
+
   }
+
   body a {
     text-decoration: none;
   }
@@ -25,6 +27,7 @@ header{
   z-index: 9;
   width: 100%;
   top: 0;
+  background:linear-gradient(#9FB4A7,#fff);
   }
  
   header .container {
@@ -80,6 +83,9 @@ header{
       text-align: center;
       padding: 25px 0;
     }
+  }
+  h1{
+    font-family: 'Barlow';
   }
  section .pagina-inicio {
   text-align: center; 

@@ -1,10 +1,8 @@
-body{
-  background-color: #bad4e4;
-}
+
 .base-formulario{
-  background-color: rgb(188, 239, 239);
   width: 500px;
   border-radius: 30px;
+  background-color: #ecc3c3;
 }
 Formulario {
     max-width: 400px;
@@ -28,13 +26,15 @@ Formulario {
     display: block;
     margin-bottom: 0.5rem;
     font-weight: bold;
-    background-color: #c69f9f;
+    background-color: #ecc3c3;
     border-radius: 5px;
+    font-size: 18px;
   }
   
   input {
     display: block;
     width: 100%;
+    height: 50%;
     padding: 0.5rem;
     border-radius: 5px;
     border: 1px solid #c69f9f;
@@ -43,15 +43,17 @@ Formulario {
 
   
   textarea {
-    border: 2px solid #c69f9f;
+    border: 2px solid #d59595;
     border-radius: 5px;
+    width: 60%;
+
   }
   
   button[type="submit"] {
     display: block;
     width: 100px;
     margin-left: 205px;
-    background-color: #c69f9f;
+    background-color: #d59595;
     font-weight: bold;
     color:black;
     border: none;

@@ -1,6 +1,6 @@
 .card {
-    width: 100%;
-    border-radius: px;
+    width: 95%;
+    border-radius: 5px;
     overflow: hidden;
     display: flex;
     margin: 7%;
@@ -16,14 +16,14 @@
 
   }
   .card-body {
-    padding: 30px;
+    padding: 10px;
     background-color: #ecc3c3;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius:5px;
     margin-inline-start: 2%;
     }
   .card-title {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: bold;
     margin-bottom: 15px;
     font-family: 'Barlow';
@@ -35,12 +35,4 @@
     font-family: 'Prata';
     margin-bottom: 20px;
   }
-  .btn-primary {
-    background-color: #db1b42;
-    color: #e4cece;
-    font-size: 14px;
-    font-weight: bold;
-    padding: 10px 20px;
-    border-radius: 10%;
-  }
-  
+ 

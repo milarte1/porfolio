@@ -1,8 +1,9 @@
 function Formulario () {
     return (
+    
         <div className="Formulario">
-          <section className="base-formulario">
-       <h1>Déjame tus comentarios</h1>
+        <section className="base-formulario">
+        <h1 className="titulo-formulario">Déjame tus comentarios</h1>
       <form>
         <label htmlFor="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required />

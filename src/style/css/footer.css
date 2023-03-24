@@ -5,3 +5,8 @@ footer{
     width: 100%; 
     font-weight: bold;
 }
+@media screen and (max-width: 767px) {
+    footer {
+      display: block;
+    }
+  }

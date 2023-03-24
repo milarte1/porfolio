@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Sobremi from './components/Sobremi';
 import Formulario from './components/Formulario';
 import Iconos from './components/Iconos';
+import Titulo from './components/Titulo';
 
 function App() {
 
@@ -15,9 +16,10 @@ function App() {
       </div>
       <Header />
       <Sobremi />
+      <Titulo />
       <Api />
-      <Formulario />
       <Iconos />
+      <Formulario />
       <Footer />
     </div>
   );

@@ -1,4 +1,5 @@
-.logo{
+.logos{
     display: flex;
     justify-content: space-evenly;
+    display: inline-block;
 }
